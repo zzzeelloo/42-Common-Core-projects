@@ -1,5 +1,8 @@
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/42lyon-dark.png">
+  <img alt="42 Lyon Auvergne-Rhône-Alpes" src="./assets/42lyon-light.png" width="420">
+</picture>
 # 42 Common Core — 42 Lyon
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
