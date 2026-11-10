@@ -1,0 +1,13 @@
+NO ./textures/hedge.xpm
+SO ./textures/brick.xpm
+WE ./textures/support.xpm
+EA ./textures/light.xpm
+
+F 220,100,0
+C 225,30,0
+
+11111
+10001111
+100000N1
+10001111
+11111

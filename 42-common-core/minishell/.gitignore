@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.d
+
+# Libraries
+*.a
+
+# Executables
+minishell
+test_printf
+
+# Build directories
+obj/
+libft/obj/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*~
+.*.swp
+src/exec/command_processor.c
+main_2.c

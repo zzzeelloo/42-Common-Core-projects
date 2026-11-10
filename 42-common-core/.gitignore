@@ -1,0 +1,27 @@
+# Build artifacts
+*.o
+*.d
+*.a
+*.so
+*.out
+*.dSYM/
+
+# Project binaries
+push_swap/push_swap
+push_swap/checker
+pipex/pipex
+philosophers/philo
+minishell/minishell
+fractol/fractol
+cub3D/cub3D
+ft_irc/ircserv
+
+# Environment / secrets
+.env
+inception/srcs/.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
