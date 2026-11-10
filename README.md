@@ -57,7 +57,8 @@ This repository gathers every project I completed during the Common Core at **42
 | 🏛️ | [**cpp05-09**](./cpp05-09) | Exceptions, casts, templates, STL containers and algorithms | ![C++](https://img.shields.io/badge/C++-00599C) | ![](https://img.shields.io/badge/validated-darkgreen) |
 | 🔖 | **exam rank 05** | C++ exam, under time limit | ![C++](https://img.shields.io/badge/C++-00599C) | ![](https://img.shields.io/badge/validated-darkgreen) |
 | | `rank 6` | | | |
-| 🕹️ | **ft_transcendence** | Full-stack multiplayer web application | ![Web](https://img.shields.io/badge/Web-555555) | ![](https://img.shields.io/badge/not%20done-lightgrey) |
+| 🕹️ | **ft_transcendence** | Full-stack multiplayer web application | ![Web](https://img.shields.io/badge/Web-555555) | ![](https://img.shields.io/badge/BH-darkred) |
+| 🔖 | **exam rank 06** | Advanced C/C++ exam, under time limit | ![C++](https://img.shields.io/badge/C++-00599C) | ![](https://img.shields.io/badge/validated-darkgreen) |
 
 <!-- Pour afficher une note à la place de "validated" : https://img.shields.io/badge/100-darkgreen ou https://img.shields.io/badge/125-darkgreen -->
 
